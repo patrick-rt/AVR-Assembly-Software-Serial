@@ -9,7 +9,7 @@
 ;Port setup
 .equ SERPORT	= PORTD
 .equ SERCONF	= DDRD
-.equ SERNUM		= 6
+.equ SERNUM	= 2
 
 /*
  * -----------------------------
