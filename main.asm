@@ -1,11 +1,11 @@
-;Software Serial 16MHz Mikrocontroller (Pin 2)
+;Software Serial 16MHz Microcontroller (Pin 2)
 
 .equ BAUDRATE	= 4800			;Baud
 .equ FREQUENCY	= 16000000		;Hz
 
 jmp start
 
-;Platz für ISR
+;ISR (if used)
 
 .include "SoftSerial.inc"
 
