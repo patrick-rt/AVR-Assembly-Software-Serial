@@ -1,4 +1,4 @@
-;1 Bit Zeit:
+;1 Bit timing:
 ;1200 Baud - 835us
 ;2400 Baud - 420us
 ;4800 Baud - 210us
