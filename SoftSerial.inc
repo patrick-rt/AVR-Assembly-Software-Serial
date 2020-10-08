@@ -87,7 +87,7 @@ ser_out:
 	sbrc r25,7
 	rcall bit_h
 
-	;Parity (immer 1)
+	;Parity (always 1)
 	rcall bit_h
 
 	;Stop bit
